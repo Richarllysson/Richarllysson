@@ -4,11 +4,10 @@
 ## - 👯 I’m looking to collaborate on emulators projects.
 ## - 😄 Pronouns: He/Him
 ## - ⚡ Fun fact: I'm brazilian xD
-       .---.
-      /     \
-      \.@-@./
-      /`\_/`\
-     //  _  \\
-    | \     )|_
-   /`\_`>  <_/ \
-jgs\__/'---'\__/
+    .--.
+   |o_o |
+   |:_/ |
+  //   \ \
+ (|     | )
+/'\_   _/`\
+\___)=(___/ 
